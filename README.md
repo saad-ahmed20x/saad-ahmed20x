@@ -1,16 +1,31 @@
-## Hi there 👋
+# Cybersecurity Projects & Experiments
 
-<!--
-**saad-ahmed20x/saad-ahmed20x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is a collection of my work in **cybersecurity**, with a focus on ethical hacking, vulnerability research, and defensive strategies.  
+It also includes **Python scripts** for automation and small experiments in **digital marketing and coding**, showing my broader skill set.
 
-Here are some ideas to get you started:
+## 🔒 About
+- Ethical hacking practice and security research.
+- Tools, scripts, and write-ups to demonstrate hands-on skills.
+- Exploring the overlap between cybersecurity and digital marketing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Showcase practical skills for employers and collaborators.
+- Document my learning journey in security and coding.
+- Provide useful resources for others interested in cybersecurity.
+
+## 🛠️ Tech Stack
+- Python  
+- Linux / Kali  
+- Networking & Security Tools (Nmap, Wireshark, Metasploit)  
+- Git & GitHub  
+
+## 📂 Structure
+- `/scripts` → Python tools & automation  
+- `/research` → Notes, reports, and case studies  
+- `/marketing` → Experiments linking security with digital marketing  
+
+## 🤝 Contributing
+Suggestions, improvements, or collaborations are always welcome!  
+
+## 📜 License
+This repository is shared for learning purposes. Use responsibly.
